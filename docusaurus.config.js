@@ -1,5 +1,5 @@
 module.exports = {
-  title: "ican",
+  title: "Dayup-ican",
   tagline: "The tagline of my site",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
@@ -8,7 +8,7 @@ module.exports = {
   projectName: "Dayup", // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: "ican",
+      title: "Dayup",
       logo: {
         alt: "Dayup",
         src: "img/logo.svg"
@@ -62,7 +62,7 @@ module.exports = {
           items: [
             {
               label: "Blog",
-              to: "blog"
+              to: "/"
             }
             // {
             //   label: "GitHub",
